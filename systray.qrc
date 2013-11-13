@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/spgrab.ico</file>
+        <file>images/spgrab.png</file>
+    </qresource>
+</RCC>
